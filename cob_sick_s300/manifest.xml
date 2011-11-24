@@ -10,6 +10,11 @@
   <url>http://ros.org/wiki/cob_sick_s300</url>
   
   <depend package="roscpp"/>
+  <depend package="rostest"/>
   <depend package="sensor_msgs"/>
+  <depend package="message_filters"/>
+  <depend package="diagnostic_msgs"/>
+  <depend package="tf"/>
+  <depend package="laser_geometry"/>
 
 </package>
